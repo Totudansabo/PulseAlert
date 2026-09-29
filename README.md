@@ -5,7 +5,6 @@ An installable mobile web prototype for PulseAlert, a Nigeria focused health edu
 ## Run locally
 
 ```sh
-cd pulsealert
 python3 -m http.server 8080
 ```
 
